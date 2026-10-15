@@ -189,7 +189,7 @@ export default function App() {
               <a className="button button--dark" href="#work">View work <span>↓</span></a>
               <a
                 className="button button--line"
-                href="https://drive.google.com/file/d/1Su5gr8v0jAplK9O9rj2NleEogJ4X40-S/view?usp=sharing"
+                href="https://drive.google.com/file/d/16dzug2vL_iJM56A7Ah59XkFE77CeN6Ba/view?usp=drive_link"
                 target="_blank"
                 rel="noreferrer"
                 title="Open Kavya’s résumé"
