@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your unique design skills with a visually striking portfolio tailored for UI/UX designers, featuring creative layouts and engaging interactions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
